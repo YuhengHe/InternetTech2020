@@ -10,7 +10,8 @@ For the registration page, there are following features:
 1. Check if it is a unique username.
 2. Check if the email address is a valid one.
 3. Check if the created password conforms to our specifications.
-4. Check if repeated password is the same as the password, and show this with color (red means not the smae, and green means they match)
+4. Check the strength of the password (red as weak, blue as midium, green as strong).
+5. Check if repeated password is the same as the password.
 For the user feed page, there are folowing features:
 1. User can upload their pictures
 2. User can create captions for their pictures
